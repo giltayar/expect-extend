@@ -16,7 +16,8 @@
     "emitDeclarationOnly": true,
     "declarationDir": "types",
     "maxNodeModuleJsDepth": 0,
-    "skipLibCheck": true,
+    "types": ["expect", "jest", "jest-extended"],
+    "skipLibCheck": false,
   },
-  "include": ["src/**/*.js", "src/**/*.d.ts", "test/**/*.js", "test/**/*.ts", "test/**/*.d.ts"]
+  "include": ["src"]
 }
