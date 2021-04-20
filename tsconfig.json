@@ -19,5 +19,5 @@
     "types": ["expect", "jest", "jest-extended"],
     "skipLibCheck": false,
   },
-  "include": ["src"]
+  "include": ["src", "test"]
 }

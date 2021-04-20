@@ -3,3 +3,8 @@ export function answerToLife() {
 }
 
 expect(5).toBeArrayOfSize(6);
+
+expect(5).blablala()
+
+
+expect(4).skdjfhskjdhfsdkjfh()
